@@ -20,23 +20,7 @@ Projeto desenvolvido em Python para facilitar a filtragem e extração de inform
 - `xml.etree.ElementTree` (manipulação XML)
 - `os`, `shutil`, `re`, `pathlib` e outras bibliotecas padrão
 
-## 📦 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/extrator-de-dados-xml.git
-   cd extrator-de-dados-xml
-   ```
-
-2. Instale os requisitos (se houver):
-   > ⚠️ Nenhuma dependência externa necessária — apenas Python instalado.
-
-3. Execute o programa:
-   ```bash
-   python extrator.py
-   ```
-
-4. Use a interface para:
+## Use a interface para:
    - Escolher a pasta com os XMLs;
    - Inserir os filtros desejados (Nome Fantasia, CNPJ, Número da Nota);
    - Definir a pasta de destino;
